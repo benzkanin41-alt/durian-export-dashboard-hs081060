@@ -1,0 +1,81 @@
+{
+  "url": "http://127.0.0.1:8779/",
+  "checkedAtUtc": "2026-06-10T13:01:44.025Z",
+  "edge": "Edg/149.0.4022.52",
+  "screenshots": {
+    "desktop": {
+      "file": "C:\\Users\\Test\\Documents\\Codex\\2026-06-10\\files-mentioned-by-the-user-dashboard-5\\outputs\\dashboard\\dashboard-desktop-1440x1200.png",
+      "bytes": 205564
+    },
+    "mobile": {
+      "file": "C:\\Users\\Test\\Documents\\Codex\\2026-06-10\\files-mentioned-by-the-user-dashboard-5\\outputs\\dashboard\\dashboard-mobile-390x1600.png",
+      "bytes": 174387
+    }
+  },
+  "desktop": {
+    "label": "desktop-1440x1200",
+    "baseChecks": {
+      "title": "HS 081060 Export Dashboard",
+      "h1": "ทุเรียน HS 081060",
+      "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-04\nlatest source month: เม.ย. 2569",
+      "kpiCount": 6,
+      "levelPointCount": 64,
+      "growthPointCount": 63,
+      "tableRows": 64,
+      "sourceItems": 8,
+      "sortControls": 3,
+      "bodyOverflowX": false,
+      "clippedPanels": 0,
+      "chartSvgCount": 2
+    },
+    "clickDetail": {
+      "clicked": true,
+      "selectedCount": 1,
+      "detail": "ม.ค. 2564\nรวมทุกประเทศ\nมูลค่า\n1,269,345,685\nมูลค่า\n1,269,345,685\nปริมาณ\n9,196,051\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n-\nMoM ปริมาณ\n-\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
+    },
+    "keyboardDetail": {
+      "activated": true,
+      "selectedCount": 1,
+      "detail": "ก.พ. 2564\nรวมทุกประเทศ\nMOM มูลค่า\n+157.5%\nมูลค่า\n3,268,213,548\nปริมาณ\n24,061,277\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n+157.5%\nMoM ปริมาณ\n+161.6%\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
+    },
+    "countryView": {
+      "labels": 72,
+      "checked": 10,
+      "levelPoints": 518,
+      "tableRows": 100
+    }
+  },
+  "mobile": {
+    "label": "mobile-390x1600",
+    "baseChecks": {
+      "title": "HS 081060 Export Dashboard",
+      "h1": "ทุเรียน HS 081060",
+      "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-04\nlatest source month: เม.ย. 2569",
+      "kpiCount": 6,
+      "levelPointCount": 64,
+      "growthPointCount": 63,
+      "tableRows": 64,
+      "sourceItems": 8,
+      "sortControls": 3,
+      "bodyOverflowX": false,
+      "clippedPanels": 0,
+      "chartSvgCount": 2
+    },
+    "clickDetail": {
+      "clicked": true,
+      "selectedCount": 1,
+      "detail": "ม.ค. 2564\nรวมทุกประเทศ\nมูลค่า\n1,269,345,685\nมูลค่า\n1,269,345,685\nปริมาณ\n9,196,051\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n-\nMoM ปริมาณ\n-\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
+    },
+    "keyboardDetail": {
+      "activated": true,
+      "selectedCount": 1,
+      "detail": "ก.พ. 2564\nรวมทุกประเทศ\nMOM มูลค่า\n+157.5%\nมูลค่า\n3,268,213,548\nปริมาณ\n24,061,277\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n+157.5%\nMoM ปริมาณ\n+161.6%\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
+    },
+    "countryView": {
+      "labels": 72,
+      "checked": 10,
+      "levelPoints": 518,
+      "tableRows": 100
+    }
+  }
+}
