@@ -9,31 +9,21 @@
     "endpoint": "https://tradereport.moc.go.th/stat/reporthscodeexport01/result",
     "source": "Thailand's Trade Statistic, Ministry of Commerce",
     "sourceNote": "ข้อมูลล่าสุดตามหน้า MOC reporthscodeexport01",
-    "appBundleId": "7fc1dc924bd9dbced51f64fcbc218c42",
-    "fetchedAtUtc": "2026-06-25T05:15:25+00:00",
+    "appBundleId": "16ab039af0913df58989f3f0ffba8bb1",
+    "fetchedAtUtc": "2026-07-24T04:52:58+00:00",
     "startPeriod": "2021-01",
-    "latestPeriod": "2026-05",
+    "latestPeriod": "2026-06",
     "latestYear": 2026,
-    "latestMonth": 5,
+    "latestMonth": 6,
     "currency": "THB",
     "valueUnit": "บาท",
     "quantityUnit": "หน่วยตามกรมศุลกากร"
   },
   "continents": [
     {
-      "continentId": "1A",
-      "continentName": "ทวีปเอเชีย",
-      "countryCount": 55
-    },
-    {
       "continentId": "1B",
       "continentName": "ทวีปยุโรป",
       "countryCount": 50
-    },
-    {
-      "continentId": "1C",
-      "continentName": "ทวีปอเมริกาเหนือ",
-      "countryCount": 38
     },
     {
       "continentId": "1D",
@@ -41,14 +31,24 @@
       "countryCount": 14
     },
     {
-      "continentId": "1E",
-      "continentName": "ทวีปแอฟริกา",
-      "countryCount": 59
+      "continentId": "1C",
+      "continentName": "ทวีปอเมริกาเหนือ",
+      "countryCount": 38
     },
     {
       "continentId": "1F",
       "continentName": "ทวีปออสเตรเลีย",
       "countryCount": 25
+    },
+    {
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "countryCount": 55
+    },
+    {
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "countryCount": 59
     },
     {
       "continentId": "1G",
@@ -32726,8 +32726,8 @@
       "countryName": "จีน",
       "continentId": "1A",
       "continentName": "ทวีปเอเชีย",
-      "value": 39176894741.0,
-      "quantity": 282676399.0
+      "value": 39179681429.0,
+      "quantity": 282692503.0
     },
     {
       "period": "2025-05",
@@ -34065,8 +34065,8 @@
       "countryName": "จีน",
       "continentId": "1A",
       "continentName": "ทวีปเอเชีย",
-      "value": 23247983328.0,
-      "quantity": 213715639.0
+      "value": 23254015967.0,
+      "quantity": 213764705.0
     },
     {
       "period": "2025-07",
@@ -34767,8 +34767,8 @@
       "countryName": "จีน",
       "continentId": "1A",
       "continentName": "ทวีปเอเชีย",
-      "value": 7246734874.0,
-      "quantity": 66995180.0
+      "value": 7248651594.0,
+      "quantity": 67011020.0
     },
     {
       "period": "2025-08",
@@ -36184,7 +36184,7 @@
       "countryName": "จีน",
       "continentId": "1A",
       "continentName": "ทวีปเอเชีย",
-      "value": 905508026.0,
+      "value": 906003384.0,
       "quantity": 7131545.0
     },
     {
@@ -37614,8 +37614,8 @@
       "countryName": "จีน",
       "continentId": "1A",
       "continentName": "ทวีปเอเชีย",
-      "value": 3922812488.0,
-      "quantity": 26114898.0
+      "value": 3925556568.0,
+      "quantity": 26133378.0
     },
     {
       "period": "2025-12",
@@ -41009,6 +41009,604 @@
       "continentName": "ทวีปเอเชีย",
       "value": 0.0,
       "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "302",
+      "countryCode": "CN",
+      "countryName": "จีน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 19524638351.0,
+      "quantity": 163953133.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "303",
+      "countryCode": "HK",
+      "countryName": "ฮ่องกง",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 151550741.0,
+      "quantity": 1254576.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "309",
+      "countryCode": "TW",
+      "countryName": "ไต้หวัน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 21884663.0,
+      "quantity": 136079.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "306",
+      "countryCode": "KR",
+      "countryName": "เกาหลีใต้",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 48965604.0,
+      "quantity": 484688.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "271",
+      "countryCode": "MY",
+      "countryName": "มาเลเซีย",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 6635000.0,
+      "quantity": 106700.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "304",
+      "countryCode": "JP",
+      "countryName": "ญี่ปุ่น",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 23544716.0,
+      "quantity": 109699.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "373",
+      "countryCode": "US",
+      "countryName": "สหรัฐอเมริกา",
+      "continentId": "1C",
+      "continentName": "ทวีปอเมริกาเหนือ",
+      "value": 20144834.0,
+      "quantity": 85922.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "274",
+      "countryCode": "VN",
+      "countryName": "เวียดนาม",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 2148480.0,
+      "quantity": 18280.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "483",
+      "countryCode": "AU",
+      "countryName": "ออสเตรเลีย",
+      "continentId": "1F",
+      "continentName": "ทวีปออสเตรเลีย",
+      "value": 10912681.0,
+      "quantity": 18893.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "319",
+      "countryCode": "FR",
+      "countryName": "ฝรั่งเศส",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 8006202.0,
+      "quantity": 29715.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "320",
+      "countryCode": "GB",
+      "countryName": "สหราชอาณาจักร",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 5951968.0,
+      "quantity": 14367.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "315",
+      "countryCode": "DE",
+      "countryName": "เยอรมนี",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 5142066.0,
+      "quantity": 10887.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "285",
+      "countryCode": "AE",
+      "countryName": "สหรัฐอาหรับเอมิเรตส์",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 4515842.0,
+      "quantity": 7328.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "497",
+      "countryCode": "NZ",
+      "countryName": "นิวซีแลนด์",
+      "continentId": "1F",
+      "continentName": "ทวีปออสเตรเลีย",
+      "value": 5373148.0,
+      "quantity": 8406.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "316",
+      "countryCode": "DK",
+      "countryName": "เดนมาร์ก",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 3963864.0,
+      "quantity": 8681.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "336",
+      "countryCode": "CZ",
+      "countryName": "สาธารณรัฐเช็ก",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 2895154.0,
+      "quantity": 8018.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "317",
+      "countryCode": "ES",
+      "countryName": "สเปน",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 2756568.0,
+      "quantity": 9369.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "366",
+      "countryCode": "NO",
+      "countryName": "นอร์เวย์",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 3550503.0,
+      "quantity": 7215.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "325",
+      "countryCode": "NL",
+      "countryName": "เนเธอร์แลนด์",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 2653357.0,
+      "quantity": 5292.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "356",
+      "countryCode": "CH",
+      "countryName": "สวิตเซอร์แลนด์",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 1919029.0,
+      "quantity": 4455.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "327",
+      "countryCode": "SE",
+      "countryName": "สวีเดน",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 1982212.0,
+      "quantity": 3123.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "323",
+      "countryCode": "IT",
+      "countryName": "อิตาลี",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 674688.0,
+      "quantity": 1599.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "371",
+      "countryCode": "CA",
+      "countryName": "แคนาดา",
+      "continentId": "1C",
+      "continentName": "ทวีปอเมริกาเหนือ",
+      "value": 484161.0,
+      "quantity": 955.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "294",
+      "countryCode": "OM",
+      "countryName": "โอมาน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 548489.0,
+      "quantity": 773.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "296",
+      "countryCode": "SA",
+      "countryName": "ซาอุดีอาระเบีย",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 298625.0,
+      "quantity": 381.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "295",
+      "countryCode": "QA",
+      "countryName": "กาตาร์",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 520575.0,
+      "quantity": 748.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "322",
+      "countryCode": "IE",
+      "countryName": "ไอร์แลนด์",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 345494.0,
+      "quantity": 688.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "266",
+      "countryCode": "BN",
+      "countryName": "บรูไน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 547765.0,
+      "quantity": 3637.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "286",
+      "countryCode": "BH",
+      "countryName": "บาห์เรน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 175925.0,
+      "quantity": 307.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "318",
+      "countryCode": "FI",
+      "countryName": "ฟินแลนด์",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 117161.0,
+      "quantity": 110.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "312",
+      "countryCode": "AT",
+      "countryName": "ออสเตรีย",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 208488.0,
+      "quantity": 450.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "281",
+      "countryCode": "MV",
+      "countryName": "มัลดีฟส์",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 128785.0,
+      "quantity": 201.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "292",
+      "countryCode": "KW",
+      "countryName": "คูเวต",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 68145.0,
+      "quantity": 96.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "478",
+      "countryCode": "ZA",
+      "countryName": "แอฟริกาใต้",
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "313",
+      "countryCode": "BE",
+      "countryName": "เบลเยียม",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 15194.0,
+      "quantity": 145.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "326",
+      "countryCode": "PT",
+      "countryName": "โปรตุเกส",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "279",
+      "countryCode": "IN",
+      "countryName": "อินเดีย",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 23534.0,
+      "quantity": 270.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "345",
+      "countryCode": "RU",
+      "countryName": "รัสเซีย",
+      "continentId": "1B",
+      "continentName": "ทวีปยุโรป",
+      "value": 5313.0,
+      "quantity": 28.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "447",
+      "countryCode": "KE",
+      "countryName": "เคนยา",
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "value": 35033.0,
+      "quantity": 140.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "437",
+      "countryCode": "EG",
+      "countryName": "อียิปต์",
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "value": 21367.0,
+      "quantity": 24.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "465",
+      "countryCode": "SC",
+      "countryName": "เซเชลส์",
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "341",
+      "countryCode": "KZ",
+      "countryName": "คาซัคสถาน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 1900.0,
+      "quantity": 29.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "337",
+      "countryCode": "GE",
+      "countryName": "จอร์เจีย",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "277",
+      "countryCode": "BD",
+      "countryName": "บังกลาเทศ",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "352",
+      "countryCode": "UZ",
+      "countryName": "อุซเบกิสถาน",
+      "continentId": "1A",
+      "continentName": "ทวีปเอเชีย",
+      "value": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "countryId": "440",
+      "countryCode": "GA",
+      "countryName": "กาบอง",
+      "continentId": "1E",
+      "continentName": "ทวีปแอฟริกา",
+      "value": 971.0,
+      "quantity": 10.0
     }
   ],
   "totals": [
@@ -41537,10 +42135,10 @@
       "year": 2025,
       "month": 5,
       "quarter": 2,
-      "value": 40410250539.0,
-      "quantity": 290264056.0,
-      "ytdValue": 64337004641.0,
-      "ytdQuantity": 433974137.0
+      "value": 40413037227.0,
+      "quantity": 290280160.0,
+      "ytdValue": 64339791329.0,
+      "ytdQuantity": 433990241.0
     },
     {
       "period": "2025-06",
@@ -41549,28 +42147,28 @@
       "quarter": 2,
       "value": 23248420759.0,
       "quantity": 206568086.0,
-      "ytdValue": 87585425400.0,
-      "ytdQuantity": 640542223.0
+      "ytdValue": 87588212088.0,
+      "ytdQuantity": 640558327.0
     },
     {
       "period": "2025-07",
       "year": 2025,
       "month": 7,
       "quarter": 3,
-      "value": 23625620197.0,
-      "quantity": 218220257.0,
-      "ytdValue": 111211045597.0,
-      "ytdQuantity": 858762480.0
+      "value": 23631652836.0,
+      "quantity": 218269323.0,
+      "ytdValue": 111219864924.0,
+      "ytdQuantity": 858827650.0
     },
     {
       "period": "2025-08",
       "year": 2025,
       "month": 8,
       "quarter": 3,
-      "value": 7497053869.0,
-      "quantity": 70566842.0,
-      "ytdValue": 118708099466.0,
-      "ytdQuantity": 929329322.0
+      "value": 7498970589.0,
+      "quantity": 70582682.0,
+      "ytdValue": 118718835513.0,
+      "ytdQuantity": 929410332.0
     },
     {
       "period": "2025-09",
@@ -41579,18 +42177,18 @@
       "quarter": 3,
       "value": 1286240935.0,
       "quantity": 10733445.0,
-      "ytdValue": 119994340401.0,
-      "ytdQuantity": 940062767.0
+      "ytdValue": 120005076448.0,
+      "ytdQuantity": 940143777.0
     },
     {
       "period": "2025-10",
       "year": 2025,
       "month": 10,
       "quarter": 4,
-      "value": 935108711.0,
+      "value": 935604069.0,
       "quantity": 7251025.0,
-      "ytdValue": 120929449112.0,
-      "ytdQuantity": 947313792.0
+      "ytdValue": 120940680517.0,
+      "ytdQuantity": 947394802.0
     },
     {
       "period": "2025-11",
@@ -41599,18 +42197,18 @@
       "quarter": 4,
       "value": 861887496.0,
       "quantity": 5511256.0,
-      "ytdValue": 121791336608.0,
-      "ytdQuantity": 952825048.0
+      "ytdValue": 121802568013.0,
+      "ytdQuantity": 952906058.0
     },
     {
       "period": "2025-12",
       "year": 2025,
       "month": 12,
       "quarter": 4,
-      "value": 3946218341.0,
-      "quantity": 26220460.0,
-      "ytdValue": 125737554949.0,
-      "ytdQuantity": 979045508.0
+      "value": 3948962421.0,
+      "quantity": 26238940.0,
+      "ytdValue": 125751530434.0,
+      "ytdQuantity": 979144998.0
     },
     {
       "period": "2026-01",
@@ -41661,13 +42259,23 @@
       "quantity": 348293696.0,
       "ytdValue": 95525816731.0,
       "ytdQuantity": 726461155.0
+    },
+    {
+      "period": "2026-06",
+      "year": 2026,
+      "month": 6,
+      "quarter": 2,
+      "value": 19863356596.0,
+      "quantity": 166295417.0,
+      "ytdValue": 115389173327.0,
+      "ytdQuantity": 892756572.0
     }
   ],
   "validation": {
-    "monthsFetched": 65,
-    "expectedMonths": 65,
-    "worldSummaryRows": 65,
-    "countryRows": 2939,
+    "monthsFetched": 66,
+    "expectedMonths": 66,
+    "worldSummaryRows": 66,
+    "countryRows": 2985,
     "maxAbsValueDiff": 0.0,
     "maxAbsQuantityDiff": 0.0,
     "missingContinentCountryIds": []
