@@ -535,7 +535,8 @@
     const x = (sort) => pad.left + (xMax === xMin ? plotW / 2 : ((sort - xMin) / (xMax - xMin)) * plotW);
     const y = (value) => pad.top + (1 - (value - yMin) / (yMax - yMin)) * plotH;
     const periodTicks = series[0].points;
-    const tickStep = Math.max(1, Math.ceil(periodTicks.length / 8));
+    const maxTickLabels = 8;
+    const tickStep = Math.max(1, Math.ceil((periodTicks.length - 1) / (maxTickLabels - 1)));
     const yTicks = Array.from({ length: 5 }, (_, index) => yMin + ((yMax - yMin) * index) / 4);
 
     const grid = yTicks
