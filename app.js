@@ -543,9 +543,12 @@
       .map((tick) => `<line class="grid-line" x1="${pad.left}" x2="${width - pad.right}" y1="${y(tick)}" y2="${y(tick)}"></line>
         <text x="${pad.left - 8}" y="${y(tick) + 4}" text-anchor="end">${options.percent ? nf0.format(tick) + "%" : formatCompact(tick)}</text>`)
       .join("");
-    const xTicks = periodTicks
-      .filter((_, index) => index % tickStep === 0 || index === periodTicks.length - 1)
-      .map((point) => `<text x="${x(point.periodSort)}" y="${height - 28}" text-anchor="middle">${escapeHtml(point.periodLabel)}</text>`)
+    const xTickPoints = periodTicks.filter((_, index) => index % tickStep === 0 || index === periodTicks.length - 1);
+    const xTicks = xTickPoints
+      .map((point, index) => {
+        const textAnchor = index === 0 ? "start" : index === xTickPoints.length - 1 ? "end" : "middle";
+        return `<text x="${x(point.periodSort)}" y="${height - 28}" text-anchor="${textAnchor}">${escapeHtml(point.periodLabel)}</text>`;
+      })
       .join("");
     const zeroLine = options.percent && yMin < 0 && yMax > 0 ? `<line class="zero-line" x1="${pad.left}" x2="${width - pad.right}" y1="${y(0)}" y2="${y(0)}"></line>` : "";
 
