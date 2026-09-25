@@ -1,81 +1,387 @@
 {
   "url": "http://127.0.0.1:8779/",
-  "checkedAtUtc": "2026-06-10T13:01:44.025Z",
-  "edge": "Edg/149.0.4022.52",
+  "checkedAtUtc": "2026-09-25T04:49:37+00:00",
+  "source": "https://tradereport.moc.go.th/th/stat/reporthscodeexport01",
+  "latestPeriod": "2026-08",
   "screenshots": {
     "desktop": {
-      "file": "C:\\Users\\Test\\Documents\\Codex\\2026-06-10\\files-mentioned-by-the-user-dashboard-5\\outputs\\dashboard\\dashboard-desktop-1440x1200.png",
-      "bytes": 205564
+      "file": "dashboard-desktop-1440x1200.png",
+      "bytes": 209010,
+      "viewport": {
+        "width": 1440,
+        "height": 1200
+      }
     },
     "mobile": {
-      "file": "C:\\Users\\Test\\Documents\\Codex\\2026-06-10\\files-mentioned-by-the-user-dashboard-5\\outputs\\dashboard\\dashboard-mobile-390x1600.png",
-      "bytes": 174387
+      "file": "dashboard-mobile-390x1600.png",
+      "bytes": 164652,
+      "viewport": {
+        "width": 390,
+        "height": 1600
+      }
     }
   },
-  "desktop": {
-    "label": "desktop-1440x1200",
-    "baseChecks": {
-      "title": "HS 081060 Export Dashboard",
-      "h1": "ทุเรียน HS 081060",
-      "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-04\nlatest source month: เม.ย. 2569",
-      "kpiCount": 6,
-      "levelPointCount": 64,
-      "growthPointCount": 63,
-      "tableRows": 64,
-      "sourceItems": 8,
-      "sortControls": 3,
-      "bodyOverflowX": false,
-      "clippedPanels": 0,
-      "chartSvgCount": 2
+  "viewports": {
+    "desktop": {
+      "monthly": {
+        "title": "HS 081060 Export Dashboard",
+        "heading": "ทุเรียน HS 081060",
+        "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+        "latestAugustVisible": true,
+        "augustValueVisible": true,
+        "horizontalOverflow": false,
+        "kpiCount": 6,
+        "tableRows": 68,
+        "chartCount": 2,
+        "charts": [
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          },
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          }
+        ]
+      },
+      "chartClick": {
+        "selectedCount": 1,
+        "detail": [
+          "ม.ค. 2564",
+          "รวมทุกประเทศ",
+          "มูลค่า"
+        ]
+      },
+      "chartKeyboard": {
+        "selectedCount": 1,
+        "detail": [
+          "มี.ค. 2564",
+          "รวมทุกประเทศ",
+          "MOM มูลค่า"
+        ]
+      },
+      "periods": {
+        "quarter": {
+          "title": "HS 081060 Export Dashboard",
+          "heading": "ทุเรียน HS 081060",
+          "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+          "latestAugustVisible": true,
+          "augustValueVisible": false,
+          "horizontalOverflow": false,
+          "kpiCount": 6,
+          "tableRows": 23,
+          "chartCount": 2,
+          "charts": [
+            {
+              "labels": [
+                "Q1 2564",
+                "Q1 2565",
+                "Q1 2566",
+                "Q1 2567",
+                "Q1 2568",
+                "Q1 2569",
+                "Q3 2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            },
+            {
+              "labels": [
+                "Q1 2564",
+                "Q1 2565",
+                "Q1 2566",
+                "Q1 2567",
+                "Q1 2568",
+                "Q1 2569",
+                "Q3 2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            }
+          ]
+        },
+        "year": {
+          "title": "HS 081060 Export Dashboard",
+          "heading": "ทุเรียน HS 081060",
+          "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+          "latestAugustVisible": true,
+          "augustValueVisible": false,
+          "horizontalOverflow": false,
+          "kpiCount": 6,
+          "tableRows": 6,
+          "chartCount": 2,
+          "charts": [
+            {
+              "labels": [
+                "2564",
+                "2565",
+                "2566",
+                "2567",
+                "2568",
+                "2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            },
+            {
+              "labels": [
+                "2564",
+                "2565",
+                "2566",
+                "2567",
+                "2568",
+                "2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            }
+          ]
+        }
+      },
+      "country": {
+        "title": "HS 081060 Export Dashboard",
+        "heading": "ทุเรียน HS 081060",
+        "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+        "latestAugustVisible": true,
+        "augustValueVisible": false,
+        "horizontalOverflow": false,
+        "kpiCount": 6,
+        "tableRows": 100,
+        "chartCount": 2,
+        "charts": [
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          },
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          }
+        ]
+      },
+      "selectedCountries": 10,
+      "pageErrors": []
     },
-    "clickDetail": {
-      "clicked": true,
-      "selectedCount": 1,
-      "detail": "ม.ค. 2564\nรวมทุกประเทศ\nมูลค่า\n1,269,345,685\nมูลค่า\n1,269,345,685\nปริมาณ\n9,196,051\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n-\nMoM ปริมาณ\n-\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
-    },
-    "keyboardDetail": {
-      "activated": true,
-      "selectedCount": 1,
-      "detail": "ก.พ. 2564\nรวมทุกประเทศ\nMOM มูลค่า\n+157.5%\nมูลค่า\n3,268,213,548\nปริมาณ\n24,061,277\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n+157.5%\nMoM ปริมาณ\n+161.6%\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
-    },
-    "countryView": {
-      "labels": 72,
-      "checked": 10,
-      "levelPoints": 518,
-      "tableRows": 100
+    "mobile": {
+      "monthly": {
+        "title": "HS 081060 Export Dashboard",
+        "heading": "ทุเรียน HS 081060",
+        "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+        "latestAugustVisible": true,
+        "augustValueVisible": true,
+        "horizontalOverflow": false,
+        "kpiCount": 6,
+        "tableRows": 68,
+        "chartCount": 2,
+        "charts": [
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          },
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          }
+        ]
+      },
+      "chartClick": {
+        "selectedCount": 1,
+        "detail": [
+          "ม.ค. 2564",
+          "รวมทุกประเทศ",
+          "มูลค่า"
+        ]
+      },
+      "chartKeyboard": {
+        "selectedCount": 1,
+        "detail": [
+          "มี.ค. 2564",
+          "รวมทุกประเทศ",
+          "MOM มูลค่า"
+        ]
+      },
+      "periods": {
+        "quarter": {
+          "title": "HS 081060 Export Dashboard",
+          "heading": "ทุเรียน HS 081060",
+          "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+          "latestAugustVisible": true,
+          "augustValueVisible": false,
+          "horizontalOverflow": false,
+          "kpiCount": 6,
+          "tableRows": 23,
+          "chartCount": 2,
+          "charts": [
+            {
+              "labels": [
+                "Q1 2564",
+                "Q1 2565",
+                "Q1 2566",
+                "Q1 2567",
+                "Q1 2568",
+                "Q1 2569",
+                "Q3 2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            },
+            {
+              "labels": [
+                "Q1 2564",
+                "Q1 2565",
+                "Q1 2566",
+                "Q1 2567",
+                "Q1 2568",
+                "Q1 2569",
+                "Q3 2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            }
+          ]
+        },
+        "year": {
+          "title": "HS 081060 Export Dashboard",
+          "heading": "ทุเรียน HS 081060",
+          "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+          "latestAugustVisible": true,
+          "augustValueVisible": false,
+          "horizontalOverflow": false,
+          "kpiCount": 6,
+          "tableRows": 6,
+          "chartCount": 2,
+          "charts": [
+            {
+              "labels": [
+                "2564",
+                "2565",
+                "2566",
+                "2567",
+                "2568",
+                "2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            },
+            {
+              "labels": [
+                "2564",
+                "2565",
+                "2566",
+                "2567",
+                "2568",
+                "2569"
+              ],
+              "overlaps": [],
+              "clipped": []
+            }
+          ]
+        }
+      },
+      "country": {
+        "title": "HS 081060 Export Dashboard",
+        "heading": "ทุเรียน HS 081060",
+        "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-08\nlatest source month: ส.ค. 2569",
+        "latestAugustVisible": true,
+        "augustValueVisible": false,
+        "horizontalOverflow": false,
+        "kpiCount": 6,
+        "tableRows": 100,
+        "chartCount": 2,
+        "charts": [
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          },
+          {
+            "labels": [
+              "ม.ค. 2564",
+              "พ.ย. 2564",
+              "ก.ย. 2565",
+              "ก.ค. 2566",
+              "พ.ค. 2567",
+              "มี.ค. 2568",
+              "ม.ค. 2569",
+              "ส.ค. 2569"
+            ],
+            "overlaps": [],
+            "clipped": []
+          }
+        ]
+      },
+      "selectedCountries": 10,
+      "pageErrors": []
     }
   },
-  "mobile": {
-    "label": "mobile-390x1600",
-    "baseChecks": {
-      "title": "HS 081060 Export Dashboard",
-      "h1": "ทุเรียน HS 081060",
-      "coverage": "081060 : ทุเรียน | 2021-01 ถึง 2026-04\nlatest source month: เม.ย. 2569",
-      "kpiCount": 6,
-      "levelPointCount": 64,
-      "growthPointCount": 63,
-      "tableRows": 64,
-      "sourceItems": 8,
-      "sortControls": 3,
-      "bodyOverflowX": false,
-      "clippedPanels": 0,
-      "chartSvgCount": 2
-    },
-    "clickDetail": {
-      "clicked": true,
-      "selectedCount": 1,
-      "detail": "ม.ค. 2564\nรวมทุกประเทศ\nมูลค่า\n1,269,345,685\nมูลค่า\n1,269,345,685\nปริมาณ\n9,196,051\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n-\nMoM ปริมาณ\n-\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
-    },
-    "keyboardDetail": {
-      "activated": true,
-      "selectedCount": 1,
-      "detail": "ก.พ. 2564\nรวมทุกประเทศ\nMOM มูลค่า\n+157.5%\nมูลค่า\n3,268,213,548\nปริมาณ\n24,061,277\nShare มูลค่า\n+100%\nShare ปริมาณ\n+100%\nMoM มูลค่า\n+157.5%\nMoM ปริมาณ\n+161.6%\nYoY มูลค่า\n-\nYoY ปริมาณ\n-\nQoQ มูลค่า\n-\nQoQ ปริมาณ\n-"
-    },
-    "countryView": {
-      "labels": 72,
-      "checked": 10,
-      "levelPoints": 518,
-      "tableRows": 100
-    }
-  }
+  "browser": "Chrome 153.0.8010.53"
 }

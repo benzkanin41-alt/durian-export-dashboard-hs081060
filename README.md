@@ -12,17 +12,17 @@ https://benzkanin41-alt.github.io/durian-export-dashboard-hs081060/
 - HS code: `081060`
 - HS name จาก MOC: `081060 : ทุเรียน`
 - HS version: `2022`
-- ช่วงข้อมูล: `2021-01` ถึง `2026-07`
-- เดือนล่าสุดตาม source: `ก.ค. 2569`
+- ช่วงข้อมูล: `2021-01` ถึง `2026-08`
+- เดือนล่าสุดตาม source: `ส.ค. 2569`
 - สกุลเงิน: บาท
 - Grain หลัก: รายเดือน x ประเทศ
 
 ## Latest Snapshot
 
-- มูลค่าเดือนล่าสุด: `23,241,313,346` บาท
-- ปริมาณเดือนล่าสุด: `224,294,567` หน่วยตาม source
-- YTD มูลค่า: `138,630,486,673` บาท
-- YTD ปริมาณ: `1,117,051,139` หน่วยตาม source
+- มูลค่าเดือนล่าสุด: `10,236,082,466` บาท
+- ปริมาณเดือนล่าสุด: `98,678,134` หน่วยตาม source
+- YTD มูลค่า: `148,866,569,139` บาท
+- YTD ปริมาณ: `1,215,729,273` หน่วยตาม source
 
 ## Dashboard Features
 
@@ -38,9 +38,9 @@ https://benzkanin41-alt.github.io/durian-export-dashboard-hs081060/
 
 ## Validation
 
-- ดึงข้อมูลครบ `67` เดือน
-- มี world summary row ครบ `67` เดือน
-- รายประเทศรวม `3,033` country-month rows
+- ดึงข้อมูลครบ `68` เดือน
+- มี world summary row ครบ `68` เดือน
+- รายประเทศรวม `3,081` country-month rows
 - reconciliation max value diff = `0`
 - reconciliation max quantity diff = `0`
 - ไม่มีประเทศที่ map ทวีปไม่ได้
@@ -64,4 +64,4 @@ https://benzkanin41-alt.github.io/durian-export-dashboard-hs081060/
 
 - Source page: https://tradereport.moc.go.th/th/stat/reporthscodeexport01
 - Endpoint: `https://tradereport.moc.go.th/stat/reporthscodeexport01/result`
-- Fetched UTC: `2026-08-27T05:26:20+00:00`
+- Fetched UTC: `2026-09-25T04:44:12+00:00`
